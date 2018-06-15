@@ -1,0 +1,37 @@
+// ***** BenchmarkRunner: Start   *****
+// Found benchmarks:
+
+// Validating benchmarks:
+// ***** Building 0 benchmark(s) in Parallel: Start   *****
+// ***** Done, took 00:00:00 (0.38 sec)   *****
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+  BenchmarkDotNet.Artifacts\results\BenchmarkRun-001-2018-06-15-04-24-35-report.csv
+  BenchmarkDotNet.Artifacts\results\BenchmarkRun-001-2018-06-15-04-24-35-report-github.md
+  BenchmarkDotNet.Artifacts\results\BenchmarkRun-001-2018-06-15-04-24-35-report.html
+
+// * Detailed results *
+Total time: 00:00:00 (0.43 sec)
+
+// * Summary *
+
+BenchmarkDotNet=v0.10.14, OS=Windows 10.0.16299.371 (1709/FallCreatorsUpdate/Redstone3)
+Intel Core i5-5200U CPU 2.20GHz (Broadwell), 1 CPU, 4 logical and 2 physical cores
+Frequency=2143474 Hz, Resolution=466.5324 ns, Timer=TSC
+  [Host] : .NET Framework 4.7.1 (CLR 4.0.30319.42000), 32bit LegacyJIT-v4.7.2633.0 DEBUG  [AttachedDebugger]
+
+There are no benchmarks found 
+
+
+// * Warnings *
+Environment
+  Summary -> Benchmark was executed with attached debugger
+
+// * Legends *
+  Mean  : Arithmetic mean of all measurements
+  Error : Half of 99.9% confidence interval
+  1 ns  : 1 Nanosecond (0.000000001 sec)
+
+// ***** BenchmarkRunner: End *****
+// * Artifacts cleanup *
